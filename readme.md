@@ -13,6 +13,7 @@
 ## How to run the app ?
 
 1. Open app's directory in CMD or Terminal
+2. git clone https://github.com/rizqonmaulana/rest_api_nastha.git
 2. Type `npm install`
 3. Turn on Web Server and MySQL can using Third-party tool like xampp, etc.
 4. Create a database with the name kuliah_nastha, and Import file sql to **phpmyadmin**
